@@ -1,12 +1,10 @@
-body {
-    background: rgb(41,38,99);
-    background: radial-gradient(circle, rgba(41,38,99,1) 11%, rgba(61,54,148,1) 100%);
+body{
+    background-color: black;
 }
-/* Form Style */
+
 .form-horizontal{
     background: #fff;
     padding-bottom: 40px;
-    margin-top: 60px;
     border-radius: 15px;
     text-align: center;
 }
